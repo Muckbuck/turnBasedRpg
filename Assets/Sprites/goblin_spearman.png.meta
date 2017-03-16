@@ -1,0 +1,1098 @@
+fileFormatVersion: 2
+guid: 2311e3589d8fe6e4cbc4400413c96ee5
+timeCreated: 1489612950
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goblin_spearman_0
+    21300002: goblin_spearman_1
+    21300004: goblin_spearman_2
+    21300006: goblin_spearman_3
+    21300008: goblin_spearman_4
+    21300010: goblin_spearman_5
+    21300012: goblin_spearman_6
+    21300014: goblin_spearman_7
+    21300016: goblin_spearman_8
+    21300018: goblin_spearman_9
+    21300020: goblin_spearman_10
+    21300022: goblin_spearman_11
+    21300024: goblin_spearman_12
+    21300026: goblin_spearman_13
+    21300028: goblin_spearman_14
+    21300030: goblin_spearman_15
+    21300032: goblin_spearman_16
+    21300034: goblin_spearman_17
+    21300036: goblin_spearman_18
+    21300038: goblin_spearman_19
+    21300040: goblin_spearman_20
+    21300042: goblin_spearman_21
+    21300044: goblin_spearman_22
+    21300046: goblin_spearman_23
+    21300048: goblin_spearman_24
+    21300050: goblin_spearman_25
+    21300052: goblin_spearman_26
+    21300054: goblin_spearman_27
+    21300056: goblin_spearman_28
+    21300058: goblin_spearman_29
+    21300060: goblin_spearman_30
+    21300062: goblin_spearman_31
+    21300064: goblin_spearman_32
+    21300066: goblin_spearman_33
+    21300068: goblin_spearman_34
+    21300070: goblin_spearman_35
+    21300072: goblin_spearman_36
+    21300074: goblin_spearman_37
+    21300076: goblin_spearman_38
+    21300078: goblin_spearman_39
+    21300080: goblin_spearman_40
+    21300082: goblin_spearman_41
+    21300084: goblin_spearman_42
+    21300086: goblin_spearman_43
+    21300088: goblin_spearman_44
+    21300090: goblin_spearman_45
+    21300092: goblin_spearman_46
+    21300094: goblin_spearman_47
+    21300096: goblin_spearman_48
+    21300098: goblin_spearman_49
+    21300100: goblin_spearman_50
+    21300102: goblin_spearman_51
+    21300104: goblin_spearman_52
+    21300106: goblin_spearman_53
+    21300108: goblin_spearman_54
+    21300110: goblin_spearman_55
+    21300112: goblin_spearman_56
+    21300114: goblin_spearman_57
+    21300116: goblin_spearman_58
+    21300118: goblin_spearman_59
+    21300120: goblin_spearman_60
+    21300122: goblin_spearman_61
+    21300124: goblin_spearman_62
+    21300126: goblin_spearman_63
+    21300128: goblin_spearman_64
+    21300130: goblin_spearman_65
+    21300132: goblin_spearman_66
+    21300134: goblin_spearman_67
+    21300136: goblin_spearman_68
+    21300138: goblin_spearman_69
+    21300140: goblin_spearman_70
+    21300142: goblin_spearman_71
+    21300144: goblin_spearman_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_spearman_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 961
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 960
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 962
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 961
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 961
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 888
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 888
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 890
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 890
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 889
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 817
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 816
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 818
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 817
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 817
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 744
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 746
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 746
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 745
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 744
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 673
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 673
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 674
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 673
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 673
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 601
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 602
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 601
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 601
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 529
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 528
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 530
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 529
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 525
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 457
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 456
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 458
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 450
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 448
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 385
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 386
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 372
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 373
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 331
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 331
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 238
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 238
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 238
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_56
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 241
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 241
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 161
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 161
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_63
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_67
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 97
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 25
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 25
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
